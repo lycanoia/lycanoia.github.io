@@ -1,3 +1,10 @@
 body {
     background-color: #1e1e2e;
 }
+
+@font-face {
+    font-family: 'JetBrains Mono';
+    src: url('https://fonts.gstatic.com/s/jetbrainsmono/v16/raxk2i8t0a4c3b7d5e6f4f4f4f4f4f4.woff2') format('woff2');
+    font-weight: 400;
+    font-style: normal;
+}
