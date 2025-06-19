@@ -1,16 +1,26 @@
+/** COLORS
+Background Light: #eff1f5
+Background Dark: #1e1e2e
+Light Header Banner: #e6e9ef
+Dark Header Banner: #11111b
+Light Header Text: #4c4f69
+Dark Header Text: #cdd6f4 **/
+
 body {
-    background-color: #1e1e2e;
+    background-color: #eff1f5;
 }
 
 @font-face {
-    font-family: 'JetBrains Mono';
-    src: url('https://fonts.gstatic.com/s/jetbrainsmono/v16/raxk2i8t0a4c3b7d5e6f4f4f4f4f4f4.woff2') format('woff2');
-    font-weight: 400;
-    font-style: normal;
+    font-family: 'JustSans';
+    src: url('https://files.catbox.moe/zkr5ln.woff2') format('woff2');
 }
 
 .header {
-    background-color: #11111b;
+    background-color: #e6e9ef;
     padding: 30px;
+    text-align: center;
+    color: #4c4f69;
+    border-color:#dce0e8;
+    border-bottom-width: 0.05cm;
 }
 
