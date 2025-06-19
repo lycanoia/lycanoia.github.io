@@ -9,9 +9,8 @@ body {
     font-style: normal;
 }
 
-header {
+.header {
     background-color: #11111b;
-    padding: 20px;
-    text-align: center;
-    font-family: 'JetBrains Mono', monospace;
+    padding: 30px;
 }
+
